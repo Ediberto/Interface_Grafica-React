@@ -20,6 +20,8 @@ na avaliação final da disciplina.
 
 ## Tecnologias
 * react
+* javascript
+* .json
 * react-native-web
 * react-dom
 * expo
