@@ -1,5 +1,8 @@
 # Interface_Grafica-React
-      O Interface_Grafica-React é um aplicativo que será desenvolvido na primeira aula da disciplina Programação para Dispositivos Móveis em Android, ministrada na Universidade Estácio de Sá, nos campi Niterói-RJ e São Gonçalo-RJ. Nesta aula introdutória, os alunos serão apresentados aos fundamentos do React Native, incluindo sua estrutura e principais conceitos.
+O Interface_Grafica-React é um aplicativo que será desenvolvido na primeira aula da disciplina Programação 
+para Dispositivos Móveis em Android, ministrada na Universidade Estácio de Sá, nos campi Niterói-RJ e São 
+Gonçalo-RJ. Nesta aula introdutória, os alunos serão apresentados aos fundamentos do React Native, incluindo 
+sua estrutura e principais conceitos.
       Ao final da aula, os alunos terão adquirido o conhecimento necessário para implementar a primeira tela do sistema que desenvolverão ao longo do semestre. O sistema deverá, no mínimo, conter um CRUD e atender a uma necessidade da comunidade local. Todo o processo será orientado por mim, e, ao longo do semestre, novos temas serão abordados para agregar na implementação do sistema.
       Além da parte técnica, os alunos também deverão elaborar a documentação do sistema, que será considerada na avaliação final da disciplina.
 
