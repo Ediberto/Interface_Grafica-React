@@ -16,7 +16,7 @@ na avaliação final da disciplina.
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="/imagem/imagem02.png" width="460">&emsp;
+<img src="/imagem/imagem02.png" width="560">&emsp;
 
 ## Tecnologias
 * react
